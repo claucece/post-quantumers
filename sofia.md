@@ -9,3 +9,5 @@
   Ward Beullens and Cyprien Delpech de Saint Guilhem
 * [SQISign: compact post-quantum signatures from quaternions and isogenies](https://eprint.iacr.org/2020/1240.pdf)
   by Luca De Feo, David Kohel, Antonin Leroux, Christophe Petit, and Benjamin Wesolowski
+* [Revisiting Post-quantum Fiat-Shamir](https://link.springer.com/chapter/10.1007/978-3-030-26951-7_12)
+  by Qipeng LiuEmail and Mark Zhandry
