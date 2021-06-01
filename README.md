@@ -9,6 +9,8 @@
 * [Lattice-based Cryptography](https://cims.nyu.edu/~regev/papers/pqc.pdf) by Daniele Micciancio and Oded Regev
 * [The Two Faces of Lattices in Cryptology](https://link.springer.com/chapter/10.1007/3-540-45537-X_24) by Phong Q. Nguyen
 * [Winter School on Cryptography: Introduction to Lattices](https://www.youtube.com/watch?v=4ulHOV8iLls&ab_channel=Bar-IlanUniversity-%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA%D7%91%D7%A8-%D7%90%D7%99%D7%9C%D7%9F) by Oded Regev
+* [The Short Integer Solutions Problem and Cryptographic Applications](https://www.youtube.com/watch?v=qZIjVX61NFc) by Daniele Micciancio
+* [Lattices: Algorithms, Complexity, and Cryptography](https://www.youtube.com/watch?v=GOQkjFdSG94) by Shafi Goldwasser
 
 ## Backlog
 
