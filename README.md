@@ -24,6 +24,8 @@
 ### Short Integer Solutions Problem (SIS)
 
 * [The Short Integer Solutions Problem and Cryptographic Applications](https://www.youtube.com/watch?v=qZIjVX61NFc) by Daniele Micciancio
+* [Short Integer Solutions A Worst-case to Average-case Reduction](https://agnesegini.github.io/SIS.pdf) by Agnese Gini
+* [The SIS problem](https://drive.google.com/file/d/1V3aI3AP2-qPzlbFNjEuuM_2pIQ87tXcR/view)
 
 ### Learning With Errors (LWE)
 
@@ -32,3 +34,6 @@
 * [L11: Learning with Errors](https://www.youtube.com/watch?v=IQ905qXuNYU) by Vinod Vaikuntanathan
 * [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
 
+### Techniques
+
+* [Worst-case to Average-case Reductions based on Gaussian Measures](https://cims.nyu.edu/~regev/papers/average.pdf) by Daniele Micciancio and Oded Regev
