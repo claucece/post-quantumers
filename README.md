@@ -16,6 +16,11 @@
 * [Using Lattices for Cryptanalysis](https://www.youtube.com/watch?v=RgbrpmJ49r4) by Nadia Heninger
 * [Lattice-Based Cryptography](https://www.youtube.com/watch?v=MG6g04R_Ims) by Phong Nguyen
 
+### Dual Lattice
+
+* [Dual Lattice and Dual Basis](https://cseweb.ucsd.edu/classes/sp14/cse206A-a/lec3.pdf) by Daniele Micciancio
+* [Dual Lattices](https://cims.nyu.edu/~regev/teaching/lattices_fall_2004/ln/DualLattice.pdf) by Oded Regev
+
 ### Short Integer Solutions Problem (SIS)
 
 * [The Short Integer Solutions Problem and Cryptographic Applications](https://www.youtube.com/watch?v=qZIjVX61NFc) by Daniele Micciancio
