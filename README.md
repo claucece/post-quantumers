@@ -1,5 +1,9 @@
 # Post-Quantumers
 
+## Properties
+
+* [Tighter proofs of CCA security in the quantum random oracle model](https://eprint.iacr.org/2019/590) by Nina Bindel, Mike Hamburg, Kathrin Hövelmanns, Andreas Hülsing and Edoardo Persichetti
+
 ## Lattice-base cryptography
 
 ### What we read
@@ -15,6 +19,7 @@
 * [Mathematics of Lattices](https://www.youtube.com/watch?v=21IzHN9-CjE) by Daniele Micciancio
 * [Using Lattices for Cryptanalysis](https://www.youtube.com/watch?v=RgbrpmJ49r4) by Nadia Heninger
 * [Lattice-Based Cryptography](https://www.youtube.com/watch?v=MG6g04R_Ims) by Phong Nguyen
+* [Reduction-Respecting Parameters for Lattice-Based Cryptosystems](https://macsphere.mcmaster.ca/handle/11375/24466) by Gates, Fletcher
 
 ### Dual Lattice
 
